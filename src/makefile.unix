@@ -70,6 +70,7 @@ LIBS+= \
    -l dl \
 	-l pthread \
 	-lgssapi_krb5 \
+	-llber \
 	-lkrb5 \
 	-lldap
 
