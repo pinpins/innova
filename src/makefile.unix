@@ -74,6 +74,7 @@ LIBS+= \
 	-lkrb5 \
 	-lidn2 \
 	-lnghttp2 \
+	-lssh \
 	-lldap
 
 # Hardening
